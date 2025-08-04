@@ -170,11 +170,11 @@ The portfolio is fully responsive with breakpoints at:
 ## 📞 Contact
 
 **Toriqul Haque Rahat**
-- Email: toriqul.rahat@example.com
-- Phone: +880 1234 567890
+- Email: toriqulhaque27@gmail.com
+- Phone: +880 1793 282891
 - Location: Dhaka, Bangladesh
-- GitHub: [@toriqul-haque-rahat](https://github.com/toriqul-haque-rahat)
-- LinkedIn: [Toriqul Haque Rahat](https://linkedin.com/in/toriqul-haque-rahat)
+- GitHub: [@toriqul-haque-rahat]([https://github.com/toriqul-haque-rahat](https://github.com/GodfatherTHR))
+
 
 ## 📄 License
 
