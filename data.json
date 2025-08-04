@@ -1,0 +1,74 @@
+{
+    "skills": [
+      {
+        "name": "Next.js",
+        "description": "React framework for production-ready applications with SSR, SSG, and API routes"
+      },
+      {
+        "name": "React",
+        "description": "JavaScript library for building dynamic and interactive user interfaces"
+      },
+      {
+        "name": "Node.js",
+        "description": "JavaScript runtime for building scalable server-side applications"
+      },
+      {
+        "name": "Supabase",
+        "description": "Open source Firebase alternative for backend services and real-time databases"
+      },
+      {
+        "name": "Cloudinary",
+        "description": "Cloud-based image and video management service for web applications"
+      },
+      {
+        "name": "TypeScript",
+        "description": "Typed superset of JavaScript for better code quality and developer experience"
+      },
+      {
+        "name": "Tailwind CSS",
+        "description": "Utility-first CSS framework for rapid UI development"
+      },
+      {
+        "name": "MongoDB",
+        "description": "NoSQL database for modern applications with flexible document structure"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Shariful Haque Portfolio",
+        "description": "A full-stack e-commerce solution featuring user authentication, product management, shopping cart, payment integration, and admin dashboard. Built with modern technologies for optimal performance and user experience.",
+        "technologies": ["Next.js", "React", "Supabase", "Tailwind CSS", "Stripe"],
+        "link": "https://www.sharifulhaque.org/"
+      },
+      {
+        "title": "Task Management System",
+        "description": "A collaborative project management tool with real-time updates, team collaboration features, task assignment, progress tracking, and deadline management. Perfect for remote teams and project coordination.",
+        "technologies": ["React", "Node.js", "Socket.io", "MongoDB", "Express"],
+        "link": "https://github.com/toriqul-haque-rahat/task-manager"
+      },
+      {
+        "title": "Social Media Dashboard",
+        "description": "A comprehensive social media management platform that allows users to schedule posts, analyze engagement metrics, manage multiple accounts, and track social media performance across different platforms.",
+        "technologies": ["Next.js", "TypeScript", "Supabase", "Chart.js", "Cloudinary"],
+        "link": "https://github.com/toriqul-haque-rahat/social-dashboard"
+      },
+      {
+        "title": "Weather Forecast App",
+        "description": "A responsive weather application providing real-time weather data, 7-day forecasts, weather maps, and location-based services. Features beautiful UI with animated weather icons and detailed meteorological information.",
+        "technologies": ["React", "Node.js", "OpenWeather API", "Tailwind CSS"],
+        "link": "https://github.com/toriqul-haque-rahat/weather-app"
+      },
+      {
+        "title": "Blog Management System",
+        "description": "A modern blogging platform with rich text editor, comment system, user authentication, SEO optimization, and content management features. Supports markdown and media uploads with Cloudinary integration.",
+        "technologies": ["Next.js", "Supabase", "Cloudinary", "React-Quill", "Tailwind CSS"],
+        "link": "https://github.com/toriqul-haque-rahat/blog-system"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A responsive personal portfolio website showcasing projects, skills, and professional experience. Features smooth animations, dark/light mode toggle, and contact form with email integration.",
+        "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+        "link": "https://github.com/toriqul-haque-rahat/portfolio"
+      }
+    ]
+  }
